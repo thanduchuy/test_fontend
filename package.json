@@ -1,0 +1,14 @@
+{
+  "name": "test_frontend",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/duchai9800ttbm/test_fontend.git",
+  "author": "smay <duchai9800ttbm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "owl.carousel": "^2.3.4",
+    "popper.js": "^1.15.0"
+  }
+}
